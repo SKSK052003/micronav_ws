@@ -1,0 +1,20 @@
+[0.761s] Invoking command in '/home/sarath/micronav_ws/src/camera_controller': PYTHONPATH=/home/sarath/micronav_ws/build/camera_controller/prefix_override:/home/sarath/micronav_ws/install/camera_controller/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_controller build --build-base /home/sarath/micronav_ws/build/camera_controller/build install --record /home/sarath/micronav_ws/build/camera_controller/install.log --single-version-externally-managed install_data
+[0.947s] running egg_info
+[0.948s] writing ../../build/camera_controller/camera_controller.egg-info/PKG-INFO
+[0.948s] writing dependency_links to ../../build/camera_controller/camera_controller.egg-info/dependency_links.txt
+[0.949s] writing entry points to ../../build/camera_controller/camera_controller.egg-info/entry_points.txt
+[0.949s] writing requirements to ../../build/camera_controller/camera_controller.egg-info/requires.txt
+[0.949s] writing top-level names to ../../build/camera_controller/camera_controller.egg-info/top_level.txt
+[0.951s] reading manifest file '../../build/camera_controller/camera_controller.egg-info/SOURCES.txt'
+[0.952s] writing manifest file '../../build/camera_controller/camera_controller.egg-info/SOURCES.txt'
+[0.952s] running build
+[0.952s] running build_py
+[0.952s] running install
+[0.953s] running install_lib
+[0.954s] running install_data
+[0.954s] running install_egg_info
+[0.956s] removing '/home/sarath/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.957s] Copying ../../build/camera_controller/camera_controller.egg-info to /home/sarath/micronav_ws/install/camera_controller/lib/python3.10/site-packages/camera_controller-0.0.0-py3.10.egg-info
+[0.958s] running install_scripts
+[0.988s] writing list of installed files to '/home/sarath/micronav_ws/build/camera_controller/install.log'
+[1.070s] Invoked command in '/home/sarath/micronav_ws/src/camera_controller' returned '0': PYTHONPATH=/home/sarath/micronav_ws/build/camera_controller/prefix_override:/home/sarath/micronav_ws/install/camera_controller/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/camera_controller build --build-base /home/sarath/micronav_ws/build/camera_controller/build install --record /home/sarath/micronav_ws/build/camera_controller/install.log --single-version-externally-managed install_data

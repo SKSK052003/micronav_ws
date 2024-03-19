@@ -1,0 +1,4 @@
+[console_scripts]
+publisher = serial_controller.publisher_member_function:main
+serilcom = serial_controller.serial_node:main
+

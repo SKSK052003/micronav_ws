@@ -1,0 +1,21 @@
+[0.747s] Invoking command in '/home/sarath/micronav_ws/src/serial_controller': PYTHONPATH=/home/sarath/micronav_ws/build/serial_controller/prefix_override:/home/sarath/micronav_ws/install/serial_controller/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/serial_controller build --build-base /home/sarath/micronav_ws/build/serial_controller/build install --record /home/sarath/micronav_ws/build/serial_controller/install.log --single-version-externally-managed install_data
+[0.929s] running egg_info
+[0.930s] writing ../../build/serial_controller/serial_controller.egg-info/PKG-INFO
+[0.930s] writing dependency_links to ../../build/serial_controller/serial_controller.egg-info/dependency_links.txt
+[0.930s] writing entry points to ../../build/serial_controller/serial_controller.egg-info/entry_points.txt
+[0.930s] writing requirements to ../../build/serial_controller/serial_controller.egg-info/requires.txt
+[0.930s] writing top-level names to ../../build/serial_controller/serial_controller.egg-info/top_level.txt
+[0.932s] reading manifest file '../../build/serial_controller/serial_controller.egg-info/SOURCES.txt'
+[0.933s] writing manifest file '../../build/serial_controller/serial_controller.egg-info/SOURCES.txt'
+[0.933s] running build
+[0.933s] running build_py
+[0.933s] running install
+[0.934s] running install_lib
+[0.935s] running install_data
+[0.935s] running install_egg_info
+[0.936s] removing '/home/sarath/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.936s] Copying ../../build/serial_controller/serial_controller.egg-info to /home/sarath/micronav_ws/install/serial_controller/lib/python3.10/site-packages/serial_controller-0.0.0-py3.10.egg-info
+[0.937s] running install_scripts
+[0.964s] Installing serilcom script to /home/sarath/micronav_ws/install/serial_controller/lib/serial_controller
+[0.964s] writing list of installed files to '/home/sarath/micronav_ws/build/serial_controller/install.log'
+[1.020s] Invoked command in '/home/sarath/micronav_ws/src/serial_controller' returned '0': PYTHONPATH=/home/sarath/micronav_ws/build/serial_controller/prefix_override:/home/sarath/micronav_ws/install/serial_controller/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/serial_controller build --build-base /home/sarath/micronav_ws/build/serial_controller/build install --record /home/sarath/micronav_ws/build/serial_controller/install.log --single-version-externally-managed install_data
